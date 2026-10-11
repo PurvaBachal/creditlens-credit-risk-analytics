@@ -2,9 +2,9 @@
 
 # Project links
 
-**Tableau Public:** CreditLens — Executive Risk Report
+**Tableau Public:** [CreditLens — Executive Risk Report](https://public.tableau.com/views/CreditLens_Executive_Report/ExecutiveRiskOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Streamlit App:** Open Borrower Risk Assessment
+**Streamlit App:** [Open Borrower Risk Assessment App](https://creditlens-credit-risk-analytics-qqyfdakkfdbauwwnsbkxhb.streamlit.app/)
 
 # Case Study Overview
 
