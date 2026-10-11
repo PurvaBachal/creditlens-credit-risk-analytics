@@ -1,0 +1,30 @@
+Column Name,Description
+client_ID,Unique identifier for each client
+person_age,Age of the applicant (years)
+person_income,Annual income of the applicant (USD)
+person_home_ownership,Home ownership status (RENT/OWN/MORTGAGE)
+person_emp_length,Employment length (years)
+loan_intent,"Purpose of the loan (PERSONAL, MEDICAL, EDUCATION, etc.)"
+loan_grade,Credit grade assigned to the loan (A–G)
+loan_amnt,Requested loan amount (USD)
+loan_int_rate,Loan interest rate (%)
+loan_status,"Loan repayment status (0 = non-default, 1 = default)"
+loan_percent_income,Percentage of income allocated to loan repayment
+cb_person_default_on_file,Whether applicant has defaulted previously (Y/N)
+cb_person_cred_hist_length,Length of credit history (years)
+gender,Gender of applicant (Male/Female)
+marital_status,Marital status (Single/Married/Divorced/Widowed)
+education_level,Education level (High School/Bachelor/Master/PhD)
+country,Country of residence
+state,State/Province of residence
+city,City of residence
+city_latitude,Latitude coordinate of the city
+city_longitude,Longitude coordinate of the city
+employment_type,Employment type (Full-time/Part-time/Self-employed/Unemployed)
+loan_term_months,"Loan term in months (12, 24, 36, 60)"
+loan_to_income_ratio,Loan amount divided by applicant income
+other_debt,Simulated additional debt held by applicant (USD)
+debt_to_income_ratio,Total debt obligations divided by applicant income
+open_accounts,Number of open credit accounts
+credit_utilization_ratio,Credit utilization ratio (0–1)
+past_delinquencies,Number of past delinquencies/late payments
